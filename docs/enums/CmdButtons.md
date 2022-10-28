@@ -1,0 +1,30 @@
+## CmdButtons
+
+| Entry |
+| :-- |
+| IN_ATTACK |
+| IN_JUMP |
+| IN_DUCK |
+| IN_FORWARD |
+| IN_BACK |
+| IN_USE |
+| IN_CANCEL |
+| IN_LEFT |
+| IN_RIGHT |
+| IN_MOVELEFT |
+| IN_MOVERIGHT |
+| IN_ATTACK2 |
+| IN_RUN |
+| IN_RELOAD |
+| IN_ALT1 |
+| IN_ALT2 |
+| IN_SCORE |
+| IN_SPEED |
+| IN_WALK |
+| IN_ZOOM |
+| IN_WEAPON1 |
+| IN_WEAPON2 |
+| IN_BULLRUSH |
+| IN_GRENADE1 |
+| IN_GRENADE2 |
+| IN_LOOKSPIN |

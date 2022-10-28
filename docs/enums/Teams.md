@@ -1,0 +1,9 @@
+## Teams
+
+| Entry |
+| :-- |
+| UNDEFINED |
+| UNASSIGNED |
+| SPECTATOR |
+| TERRORIST |
+| COUNTER_TERRORIST |
