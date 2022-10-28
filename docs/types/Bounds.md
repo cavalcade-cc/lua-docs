@@ -2,8 +2,8 @@
 
 | Constructor Argument | Purpose |
 | :-- | :-- |
-| mins | Vector2 specifying mins |
-| maxs | Vector2 specifying maxs |
+| mins | Vector3 specifying mins |
+| maxs | Vector3 specifying maxs |
 
 | Field |
 | :-- |

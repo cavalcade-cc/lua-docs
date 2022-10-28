@@ -2,5 +2,5 @@
 
 | Function | This-ref qualified | Arguments | Purpose |
 | :-- | :-- | :-- | :-- |
-| ForEach | Yes | Player | Iterate all players |
+| ForEach | Yes | [Player](docs/../../types/Player.md) player | Iterate all players |
 | GetSize | Yes | | Retrieve size of players vector |

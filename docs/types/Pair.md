@@ -1,4 +1,4 @@
-## Vector2
+## Pair
 
 | Constructor Argument |
 | :-- |

@@ -9,4 +9,4 @@
 
 | Function | This-ref qualified | Arguments | Purpose |
 | :-- | :-- | :-- | :-- |
-| GetTextSize | Yes | String string, float drawing_size | Retrieve Vector2 of width and height for `string` of `size`, safe to call in [Paint](docs/../../callbacks.md) |
+| GetTextSize | Yes | String string, float drawing_size | Retrieve [Pair](docs/types/../../Pair.md) of width and height for `string` of `size`, safe to call in [Paint](docs/../../callbacks.md) |
