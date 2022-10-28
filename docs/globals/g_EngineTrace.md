@@ -2,4 +2,4 @@
 
 | Function | This-ref qualified | Arguments | Purpose |
 | :-- | :-- | :-- | :-- |
-| TraceRay | Yes | [Trace](docs/types/../../../types/Trace.md) trace, [Ray](docs/types/../../../types/Ray.md) ray, uint32_t mask, [TraceFilter](docs/types/../../../types/TraceFilter.md) trace_filter | |
+| TraceRay | Yes | [Ray](docs/types/../../../types/Ray.md) ray, uint32_t mask, [TraceFilter](docs/types/../../../types/TraceFilter.md) trace_filter | Returns [Trace](docs/types/../../../types/Trace.md) for aguments |
