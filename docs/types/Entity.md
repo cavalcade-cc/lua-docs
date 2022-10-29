@@ -9,6 +9,7 @@
 | GetPropBool | Yes | int offset | Get property at self + `offset` |
 | GetPropVector | Yes | int offset | Get property at self + `offset` |
 | GetPropString | Yes | int offset | Get property at self + `offset` |
+| GetPropHandle | Yes | int offset | Get property at self + `offset` |
 | SetPropInt | Yes | int offset, int value | Set property at self + `offset` to `value` |
 | SetPropUint32 | Yes | int offset, uint32_t value | Set property at self + `offset` to `value` |
 | SetPropFloat | Yes | int offset, float value | Set property at self + `offset` to `value` |
