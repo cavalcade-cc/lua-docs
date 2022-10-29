@@ -7,9 +7,9 @@
 | GetPropUint32 | Yes | int offset | Get property at self + `offset` |
 | GetPropFloat | Yes | int offset | Get property at self + `offset` |
 | GetPropBool | Yes | int offset | Get property at self + `offset` |
-| GetPropVector | Yes | int offset | Get property at self + `offset` |
+| GetPropVector | Yes | int offset | Get property at self + `offset` as [Vector3](docs/types/../../Vector3.md) |
 | GetPropString | Yes | int offset | Get property at self + `offset` |
-| GetPropHandle | Yes | int offset | Get property at self + `offset` |
+| GetPropHandle | Yes | int offset | Get property at self + `offset` as [Handle](docs/types/../../Handle.md) |
 | SetPropInt | Yes | int offset, int value | Set property at self + `offset` to `value` |
 | SetPropUint32 | Yes | int offset, uint32_t value | Set property at self + `offset` to `value` |
 | SetPropFloat | Yes | int offset, float value | Set property at self + `offset` to `value` |
